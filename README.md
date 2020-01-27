@@ -3,7 +3,7 @@ In this exercise your job is to merge the intervals, where some of them possibly
 
 ## Inputs
 The first line consists of 1 integer `N`.<br>
-The next `N` lines each contains 2 numbers, L and R, representing an interval {L, R} with length R - L + 1. 1 ≤ L ≤ R ≤ 2 * 10<sup>9
+The next `N` lines each contains 2 numbers, `L` and `R`, representing an interval {`L`, `R`} with length `R - L + 1`. (`1 ≤ L ≤ R ≤ 2 𝖷 10<sup>9`)
 
 ## Outputs
 The length of discrete boxes covered by the intervals.
@@ -26,9 +26,9 @@ The length of discrete boxes covered by the intervals.
 ```
 ## Subtasks
 For all cases:<br>
-1 <= N <= 1 X 10<sup>8<br>
+1 <= N <= 1 𝖷 10<sup>8<br>
 
 \# | Points | Constraints
 --- | --- | ---
-1 | 50 | N <= 1 X 10<sub>4
+1 | 50 | N <= 1 𝖷 10<sup>4
 2 | 50 | no additional constraint
